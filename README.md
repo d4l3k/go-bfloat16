@@ -1,2 +1,3 @@
 # go-bfloat16
-Bfloat16 conversion utilities for Go/Golang
+
+BFloat16 conversion utilities for Go/Golang
